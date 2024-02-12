@@ -1,0 +1,14 @@
+{
+  "name": "asri-for-siyuan",
+  "version": "2.1.2",
+  "description": "An ultra-modern minimalistic theme for SiYuan Note.",
+  "main": "theme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mustakshif",
+  "license": "MIT",
+  "dependencies": {
+    "fastdom": "^1.0.11"
+  }
+}
